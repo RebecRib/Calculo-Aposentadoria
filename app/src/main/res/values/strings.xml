@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculodeaposentadoria</string>
+    <string name="calcular">Calcular</string>
+    <string name="rebeca_moreira_ribeiro">Rebeca Moreira Ribeiro</string>
+    <string name="adicione_sua_idade">Adicione sua Idade</string>
+    <string name="requerido">Requerido</string>
+</resources>
